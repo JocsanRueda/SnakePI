@@ -14907,7 +14907,7 @@
 
         <g class="s s3">
             <rect x="3.0" y="3.0" width="10.4" height="10.7" rx="3.3" ry="3.3" />
-            <text x="7.2" y="10" fill="white" font-family="Roboto, sans-serif" font-weight="bold" font-size="15px"
+            <text x="7.2" y="10" fill="white" font-family="Roboto, sans-serif" font-weight="bold" font-size="14px"
                 text-anchor="middle" dominant-baseline="middle">4</text>
         </g>
 
